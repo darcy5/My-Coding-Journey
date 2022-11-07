@@ -10,7 +10,7 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(((i>>j)&1)!=0){
                 sub.add(nums[j]);
-                setVal += nums[j] + "^";
+                setVal += nums[j] ;
                 } 
             }
             if(set.add(setVal)) list.add(sub);
