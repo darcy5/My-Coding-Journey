@@ -16,6 +16,7 @@ LeetCode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
