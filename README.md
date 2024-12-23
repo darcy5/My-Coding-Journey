@@ -5,11 +5,13 @@ LeetCode solutions
 ## Linked List
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
