@@ -8,6 +8,7 @@ LeetCode solutions
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,8 +53,13 @@ LeetCode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
