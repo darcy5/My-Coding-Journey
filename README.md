@@ -5,6 +5,7 @@ LeetCode solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -47,4 +48,12 @@ LeetCode solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darcy5/My-Coding-Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
