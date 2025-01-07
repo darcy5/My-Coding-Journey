@@ -19,6 +19,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/darcy5/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -62,4 +63,8 @@ LeetCode solutions
 |  |
 | ------- |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/darcy5/My-Coding-Journey/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
