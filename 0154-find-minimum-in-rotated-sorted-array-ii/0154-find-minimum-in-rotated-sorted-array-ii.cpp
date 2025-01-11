@@ -8,15 +8,19 @@ public:
 
         while(low<=high){
             int mid=(low+high)/2;
-            ans=min(nums[mid],ans);
-
-            if(nums[mid]>nums[high]){
-                low=mid+1;
+            //don't take the equal to case 
+            if(nums[low]<nums[mid]){
+                ans=min(ans,nums[low]);
+                low=mid+1; //left half is sorted so remove it
             }
-            else if(nums[mid]<nums[high]){
+            else if(nums[low]>nums[mid]){
+                ans=min(ans,nums[mid]);
                 high=mid-1;
             }
-            else high--;
+            else {
+                ans=min(ans,nums[low]);
+                low++;
+            }
         }
         return ans;
     }
