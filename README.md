@@ -13,6 +13,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/darcy5/My-Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/darcy5/My-Coding-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -98,4 +99,8 @@ LeetCode solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/darcy5/My-Coding-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/darcy5/My-Coding-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
