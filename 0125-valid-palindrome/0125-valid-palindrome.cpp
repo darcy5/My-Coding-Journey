@@ -14,6 +14,9 @@ public:
     }
 };
 
+//tc=O(m) where m is the length of the new string and here loop runs till n/2 so m is the dominant thing here
+
+
 /*
 Using += instead of str = str + ... is generally preferred in C++ because of efficiency and readability. Here's why:
 
