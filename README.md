@@ -31,6 +31,7 @@ LeetCode solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/darcy5/My-Coding-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0948-sort-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ LeetCode solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/darcy5/My-Coding-Journey/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +106,16 @@ LeetCode solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/darcy5/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darcy5/My-Coding-Journey/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
