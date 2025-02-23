@@ -23,6 +23,7 @@ LeetCode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/darcy5/My-Coding-Journey/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darcy5/My-Coding-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darcy5/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darcy5/My-Coding-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -123,5 +124,10 @@ LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/darcy5/My-Coding-Journey/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/darcy5/My-Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
