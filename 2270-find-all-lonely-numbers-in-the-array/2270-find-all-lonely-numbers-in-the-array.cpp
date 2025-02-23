@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findLonely(vector<int>& nums) {
         int n = nums.size();
-        map <int, int> mpp;
+        unordered_map <int, int> mpp;
         for (int i = 0; i < n; i++){
             mpp[nums[i]]+=1;
         }
