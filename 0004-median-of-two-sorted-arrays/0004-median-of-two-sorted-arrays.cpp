@@ -4,12 +4,9 @@ public:
         int m = nums1.size();
         int n = nums2.size();
 
-        if ( m > n ) return findMedianSortedArrays(nums2, nums1); //need 1st array as always the smaller array
-        
+        if ( m > n ) return findMedianSortedArrays(nums2, nums1);         
         int low = 0, high = m;
-
         int left = (m + n + 1) >> 1;
-
         int total = m + n;
 
         while ( low <= high ){
